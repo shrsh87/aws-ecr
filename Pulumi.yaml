@@ -1,0 +1,6 @@
+name: aws-ecr
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: An Amazon ECR
